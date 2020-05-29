@@ -351,9 +351,9 @@ hr {
 .pinterest:hover {
   background: #202020;
 }
-.facebook { background: #3b5998; }
-.twitter { background: #2e2a6e; }
-.pinterest { background: #1b4f72; }
+.facebook { background: #02006b; }
+.twitter { background: #363638; }
+.pinterest { background: #4a0c1a; }
 .media {
   padding: 80px 40px 80px 40px;
   -webkit-transition: all 0.6s ease-in;
