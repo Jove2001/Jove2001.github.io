@@ -177,6 +177,22 @@ hr {
 }
 /* END RMIT */
 
+/* START PROJECT */
+
+.tm-project {
+  background: #f8f8f8;
+  padding-top: 80px;
+}
+/* END PROJECT */
+
+/* START REFERENCES */
+
+.tm-references {
+  background: #f8f8f8;
+  padding-top: 80px;
+}
+/* END REFERENCES */
+
 /* START PORTFOLIO */
 .tm-portfolio {
   background: #f8f8f8;
