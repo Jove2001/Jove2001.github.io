@@ -126,19 +126,19 @@ hr {
 }
 /* END HOME */
 
-/* START WORK */
+/* START PROFILE */
 .tm-padding-top-bottom-100 {
   padding-top: 100px;
   padding-bottom: 100px;
 }
-.tm-work-h3 {
+.tm-profile-h3 {
   color: #eb5424;
   font-size: 20px;
   font-weight: bold;
   letter-spacing: 1px;
   padding-bottom: 10px;
 }
-.work-wrapper {
+.profile-wrapper {
   border: 1px solid #666;
   border-radius: 2px;
   text-align: center;
@@ -146,13 +146,13 @@ hr {
   -webkit-transition: all 0.6s ease-in;
           transition: all 0.6s ease-in;
 }
-.work-wrapper:hover { border-color: #eb5424; }
-.work-wrapper .fa {
+.profile-wrapper:hover { border-color: #eb5424; }
+.profile-wrapper .fa {
   color: #888888;
   font-size: 60px;
   padding-bottom: 40px;
 }
-/* END WORK */
+/* END PROFILE */
 
 /* START JOB */
 .tm-job {
