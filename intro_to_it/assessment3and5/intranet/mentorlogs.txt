@@ -1,0 +1,296 @@
+commit 980c72a252bc3769a0065dfae914faf57e6788cf
+Author: Jove <s3863018@student.rmit.edu.au>
+Date:   Sun Aug 30 22:39:30 2020 +1000
+
+    A3 work complete
+
+commit 15cf9f830e15aa2fb63606e4a908210d0f82f066
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Tue Aug 25 18:32:33 2020 +1000
+
+    Create Reflection - Charles.txt
+
+commit 3a074a00d415bcf466f97bfccc6524625c5a54e3
+Author: RMITjess <66515974+RMITjess@users.noreply.github.com>
+Date:   Tue Aug 25 14:56:13 2020 +0930
+
+    Create Reflection - Jess.txt
+
+commit 58e3c7b0e2208ec34c85a57429fde47af2744e41
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Aug 25 10:43:53 2020 +1000
+
+    A5 complete
+
+commit ed6bfcac8cce236e4bae67eb2377be63b9f57e6c
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Mon Aug 24 15:54:25 2020 +1000
+
+    Reflection added to A3 folder
+
+commit aaf52fe81ed4514545454e7adba3965bcfe262a5
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Aug 22 14:09:03 2020 +1000
+
+    A5 work
+
+commit 4ee38cbc28507219e624bc195a76444ebae7de37
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Aug 22 10:36:50 2020 +1000
+
+    Clean up
+
+commit 3aa799665a8b179365081c692e8256aac8474ca9
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Aug 22 10:36:13 2020 +1000
+
+    A5 - rebuild
+
+commit af5cb13d6ae301cc64e09ac68b14629a52608192
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Aug 22 10:11:09 2020 +1000
+
+    A5 work plus folder restructure
+
+commit 31bd528bbb62c82c48f00ae65f691359918b8ff4
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Aug 21 13:59:16 2020 +1000
+
+    A5 work in progress + cleaned Charles audio
+
+commit 6907e079e1edf39488daf326e97d41f242d45c9c
+Merge: e31d217 8103233
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Thu Aug 20 19:10:08 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/Group_22_A3A5Work
+
+commit e31d2177051849639797f4d2051d07d271929b71
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Thu Aug 20 19:10:03 2020 +1000
+
+    10 short clips for the video
+
+commit 8103233563c3683340fa026a1cc94eb408f7dffa
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Aug 20 13:16:43 2020 +1000
+
+    Clean up working folders for A5
+
+commit 13e859bafed7f17e12f65bc10c7c33611ae4f5e0
+Merge: 3df3f0b 018b802
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Aug 18 11:00:36 2020 +1000
+
+    Merge branch 'master' of https://github.com/a2-simple-b/Group_22_A3A5Work
+
+commit 3df3f0b7e5fe84e127745c31688f15f8abee9711
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Aug 18 11:00:08 2020 +1000
+
+    Revert "Revert "Add Jess's A5 contributions sent over Slack""
+    
+    This reverts commit b5a5a8a7a32a3a544be08f60ba6d23fb0a7895ce.
+
+commit b5a5a8a7a32a3a544be08f60ba6d23fb0a7895ce
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Aug 18 10:59:49 2020 +1000
+
+    Revert "Add Jess's A5 contributions sent over Slack"
+    
+    This reverts commit a970f21ce5a550c9fb88affdfc9e296538022fb3.
+
+commit a970f21ce5a550c9fb88affdfc9e296538022fb3
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Tue Aug 18 10:59:32 2020 +1000
+
+    Add Jess's A5 contributions sent over Slack
+
+commit 018b802cd723e172dbbcd4d413c8461339ee6393
+Author: RMITjess <66515974+RMITjess@users.noreply.github.com>
+Date:   Mon Aug 17 13:12:13 2020 +0930
+
+    Create 1
+
+commit 4d1a8938ec58bed1563f6b7f981c6e108957319f
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Aug 14 13:35:14 2020 +1000
+
+    Application for A3 extension
+
+commit 36ecfe10a273b75f21b8716885ffa135ce42687e
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Fri Aug 14 11:57:12 2020 +1000
+
+    Recordings and more B-Roll
+
+commit 14f6b829c8840e6138651a436303cfc75117e8ed
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Aug 12 17:31:25 2020 +1000
+
+    A5 work
+
+commit 83618d34e205620be228b187a95b6cdf7fbcd9fc
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Aug 12 15:45:41 2020 +1000
+
+    A5 work
+    
+    Includes some CC0 music
+
+commit b19dcb2cea6ea19eebed5a4aa46972cb86d684ae
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Wed Aug 12 14:26:22 2020 +1000
+
+    A5 work
+
+commit 69cfb157138522f13bd1670cf7586f3ebfc4c442
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Aug 9 21:32:28 2020 +1000
+
+    Ians end of day
+
+commit 0138615c2fca574a8e61078c601afeac73fab1e3
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Aug 9 17:48:51 2020 +1000
+
+    A5 storyboard and draft script submission
+
+commit 063f956dd18ba53ae1f6f79f0fc15a2ea4a1bbfd
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Aug 8 12:47:26 2020 +1000
+
+    Edits to scenes in script
+
+commit 2d31b32b5cc76146c339c0832f0683ba74afa098
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Aug 8 12:45:08 2020 +1000
+
+    Draft script for submission
+
+commit 1acdc9c4fb213a763fc4819e5703c9f36e66a018
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Aug 8 11:39:25 2020 +1000
+
+    Create RMIT A3 - Draft Script & Storyboard.docx
+    
+    Submitted by Chris over Slack
+    Added to repo for records keeping
+
+commit 379da872950ccc421683d91a4ea38d29a4605e71
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Aug 8 11:28:53 2020 +1000
+
+    Create Mentor_Logo2.gif
+
+commit e623dc75e17636b5cf6fbcba7e48a97a74dd9aa9
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Aug 7 17:01:55 2020 +1000
+
+    Ian's mentor logo
+
+commit 89fa562807c5c731c1edb74805bed5981ad3a9d9
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Aug 7 16:51:33 2020 +1000
+
+    Contributions form and Ian's mentor logo project
+
+commit ed9675ea1500551fdbdbb2e21e8686ed738aff54
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Thu Aug 6 17:48:15 2020 +1000
+
+    Grant and asset trajectory
+
+commit a336457b10772b491fd4fc2bcd6f399584316f00
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Wed Aug 5 18:19:05 2020 +1000
+
+    Videos added
+
+commit a2b02af1cbcf93739a476f50f935e6f91d5d1870
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Mon Aug 3 10:26:16 2020 +1000
+
+    Mentor Storyboard
+
+commit 33a8ebbaf96e7ff70b41444e7bfdb6fa45a7d53a
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Sun Aug 2 19:38:10 2020 +1000
+
+    A5 Video draft script & storyboard
+
+commit 39086e446017db58436cf2072ab6c75208e7042d
+Author: charles2075 <charles.patterson1@hotmail.com>
+Date:   Fri Jul 31 19:47:52 2020 +1000
+
+    Plan for A5 Video
+
+commit 86f29c75f2e6a4ad71fa7c8e0af45f429fbff06e
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sun Jul 26 12:27:55 2020 +1000
+
+    Create Project_Description.txt
+
+commit d953d173348c6341f17a6cce5402e4f494fe5744
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Sat Jul 25 17:27:53 2020 +1000
+
+    Create Group22_Report_Data_Security.pdf
+
+commit 2c25a32b030a443b5509a20ccb13ba9a0e21138a
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 24 20:55:43 2020 +1000
+
+    Start PDF report for A3
+
+commit bc18dae627ed3bdcb8fd6804e14275b27bc7f9f6
+Author: chrislai001 <66664359+chrislai001@users.noreply.github.com>
+Date:   Fri Jul 24 18:46:21 2020 +1000
+
+    Create .DS_Store
+
+commit e68e640ff9c973ca0410cea5e906607330d842ab
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 24 11:24:41 2020 +1000
+
+    Create Draft - Risk Assessment .txt
+    
+    Include Chris's submission. Was pushed into A2 work folder. Have created new repo for A3 + A5
+
+commit a95c1e33e2cf16fcbea646da30acad346f1498d5
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 24 11:23:51 2020 +1000
+
+    Revert "Create Draft - Risk Assessment .txt"
+    
+    This reverts commit 56d34168daecca1700b4a64a1ed7b8ecbaa795c9.
+
+commit 56d34168daecca1700b4a64a1ed7b8ecbaa795c9
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Fri Jul 24 11:23:45 2020 +1000
+
+    Create Draft - Risk Assessment .txt
+
+commit 272ce62adebcaa70495606537375682f0f2ff650
+Author: Jove2001 <s3863018@student.rmit.edu.au>
+Date:   Thu Jul 23 21:51:40 2020 +1000
+
+    Initialise repo with folder structure
+
+commit 3f1138b988c64f4936a4ac65385bcd8384bec30c
+Author: Jove <65845731+Jove2001@users.noreply.github.com>
+Date:   Thu Jul 23 20:36:04 2020 +1000
+
+    Update README.md
+
+commit ba7811bca83868384ab61de1c847fecdaf8697f6
+Author: Jove <65845731+Jove2001@users.noreply.github.com>
+Date:   Thu Jul 23 20:31:48 2020 +1000
+
+    Update README.md
+
+commit 392868dced5cc1f53d9fe7c954e0591dc268d92e
+Author: Jove <65845731+Jove2001@users.noreply.github.com>
+Date:   Thu Jul 23 20:31:28 2020 +1000
+
+    Initial commit
