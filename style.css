@@ -42,14 +42,16 @@ section.header {
   padding-top: 70px;
   background-color: #0000003d;
   text-align: center;
-  height: 190px;
+  height: 210px;
 }
 
 section.header img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100px;
+  height: 100px;
+  width: auto;
+  align-items: center;
 }
 
 .bottom {
