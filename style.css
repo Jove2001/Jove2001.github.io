@@ -1,12 +1,13 @@
 html {
   color: #c0c0c0;
   height: 100vh;
+  width: 99vw;
 }
 
 body {
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
-  /* height: 100vu; */
+
   width: auto;
   background: url('media/background2.jpg');
   background-size: cover;
@@ -16,7 +17,6 @@ body {
 
 section {
   padding-top: 1vh;
-  /* padding-bottom: 10vh; */
 }
 
 section.home a {
@@ -54,9 +54,12 @@ section.header img {
   align-items: center;
 }
 
-.bottom {
-  padding-bottom: 20%;
+@media screen and (max-width: 600px) {
+  .bottom {
+    padding-bottom: 15vh;
+  }
 }
+
 
 object.pdf {
   padding-right: 15px;
