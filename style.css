@@ -54,11 +54,9 @@ section.header img {
   align-items: center;
 }
 
-/* @media screen and (max-width: 800px) { */
-  .bottom {
-    padding-bottom: 15vh;
-  }
-/* } */
+.bottom {
+  padding-bottom: 15vh;
+}
 
 object.pdf {
   padding-right: 15px;
@@ -103,14 +101,28 @@ section.contact p.images {
 }
 
 section.contact p.images a {
-  padding: 3vh;
+  background-color: #0000003d;
+  margin: 3vh;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+section.contact p.images a:hover {
+  transition-duration: 1s;
+  background-color: #000000;
 }
 
 section.contact a.btn {
-  margin: 4vh;
+  background-color: #0000003d;
+  margin: 3vh;
   padding: 20px;
   padding-left: 30px;
-  padding-right: 30px;  
+  padding-right: 30px;
+}
+
+section.contact a.btn:hover {
+  transition-duration: 1s;
+  background-color: #000000;
 }
 
 audio {
