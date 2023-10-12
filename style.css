@@ -1,7 +1,5 @@
 html {
   color: #c0c0c0;
-  /* height: 100vh;
-  width: auto; */
 }
 
 body {
@@ -91,36 +89,7 @@ footer a {
   padding-right: 10px;
 }
 
-section.contact {
-  text-align: center;
-  padding-top: 2vh;
-}
-
-section.contact p.images {
-  padding-top: 3vh;
-}
-
-section.contact p.images a {
-  background-color: #0000003d;
-  margin: 3vh;
-  padding: 20px;
-  border-radius: 10px;
-}
-
-section.contact p.images a:hover {
-  transition-duration: 1s;
-  background-color: #000000;
-}
-
-section.contact a.btn {
-  background-color: #0000003d;
-  margin: 3vh;
-  padding: 20px;
-  padding-left: 30px;
-  padding-right: 30px;
-}
-
-section.contact a.btn:hover {
+section.contact a.btn li:hover {
   transition-duration: 1s;
   background-color: #000000;
 }
@@ -128,3 +97,4 @@ section.contact a.btn:hover {
 audio {
   margin-bottom: 30px;
 }
+
