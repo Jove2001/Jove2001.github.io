@@ -98,3 +98,7 @@ audio {
   margin-bottom: 30px;
 }
 
+iframe { 
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
