@@ -122,11 +122,12 @@
                                     was too easy. I wanted to get my weather data directly from the Australian Bureau of
                                     Meteorology (BOM).
                                     The BOM <a href="http://www.bom.gov.au/catalogue/data-feeds.shtml">publishes a lot
-                                        of data</a>, but it's not in a very user-friendly format.
+                                        of data</a>, but it's not in a very user-friendly format. They publish forecasts
+                                    as XML files on a FTP server, and observations as JSON on a
+                                    web-server.
                                 </p>
                                 <p>
-                                    They publish forecasts as XML files on a FTP server, and observations as JSON on a
-                                    web-server. I wrote a PHP script that fetches the data, parses it, and stores it in
+                                    I wrote a PHP script that fetches the data, parses it, and stores it in
                                     a SQLite database. I created an API to serve this data over my network, so any
                                     web-service has access to it. I then use JavaScript to fetch the data from the
                                     database and display it on the dashboard.
@@ -143,13 +144,23 @@
                     <div class="col-sm-12 container-fluid bottom">
                         <h4>The news</h4>
                         <p>
-                            I gave up social media and alcohol in 2020 as part of my commitment to my university
+                            I gave up social media in 2020 as part of my commitment to my university
                             degrees....
-                            but I still needed to read the news to keep up with current events. I wrote a custom RSS
-                            feed reader and loaded it up with my favourite news sources. I have two feeds that I can
-                            switch between: A breaking news feed, and an IT news feed.
+                            but I still needed to read the news to keep up with current events. I wrote a custom
+                            RSS
+                            feed reader and loaded it up with my favourite news sources. I have two feeds that I
+                            can
+                            switch between: A breaking news feed, and an IT news feed. Again, this is served by an API
+                            so I can plug a news ticker into any web-service on my network.
                         </p>
-                        <img src="media/news.png" class="img-fluid">
+                        <div class="row">
+                            <div class="col-sm-12 col-lg-6 text-center">
+                                <img src="media/news_feed.png" class="img-fluid">
+                            </div>
+                            <div class="col-sm-12 col-lg-6">
+                                <img src="media/news.png" class="img-fluid">
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="col-sm-12 col-lg-6"></div>
