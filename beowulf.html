@@ -101,7 +101,7 @@
                         </p>
                     </div>
                     <div class="col-sm-12 container-fluid pb-3">
-                        <h4>The intranet and dashboard</h4>                        
+                        <h4>The intranet and dashboard</h4>
                         <p>
                             I've built a dashboard that gives me a convienent overview.
                             It's built using PHP, JavaScript, Bootstrap 5, MySQL, and SQLite. It's very
@@ -122,12 +122,11 @@
                                     was too easy. I wanted to get my weather data directly from the Australian Bureau of
                                     Meteorology (BOM).
                                     The BOM <a href="http://www.bom.gov.au/catalogue/data-feeds.shtml">publishes a lot
-                                        of data</a>, but it's not in a very user-friendly format. They publish forecasts
-                                    as XML files on a FTP server, and observations as JSON on a
-                                    web-server.
+                                        of data</a>, but it's not in a very user-friendly format.
                                 </p>
                                 <p>
-                                    I wrote a PHP script that fetches the data, parses it, and stores it in
+                                    I wrote a PHP script that runs on a timer with cron. The script fetches the data,
+                                    parses it, and stores it in
                                     a SQLite database. I created an API to serve this data over my network, so any
                                     web-service has access to it. I then use JavaScript to fetch the data from the
                                     database and display it on the dashboard.
