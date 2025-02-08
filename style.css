@@ -17,25 +17,6 @@ section {
   padding-top: 1vh;
 }
 
-section.home a {
-  text-decoration: none;
-  color: #c0c0c0;
-}
-
-section.home {
-  color: #c0c0c0;
-  padding-top: 15vh;
-  padding-bottom: 0vh;
-  align-items: center;
-  text-align: center;
-  height: 100vh;
-}
-
-body.home section.home img {
-  max-width: 300px;
-  height: auto
-}
-
 section.header {
   padding-top: 70px;
   background-color: #0000003d;
