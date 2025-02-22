@@ -4,7 +4,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Ian McElwaine</title>
+  <meta name="description" content="Ian McElwaine Home Page">
+  <meta name="keywords" content="Ian McElwaine, Ian, McElwaine, Software, Music, Technology, Developer, Musician">
+  <meta name="author" content="Ian McElwaine">
+  <title>About</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600,700' rel='stylesheet' type='text/css'>
@@ -25,7 +28,6 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-        <a class="nav-link" href="about.html">About</a>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Tech
@@ -45,21 +47,75 @@
   </div>
 </nav>
 
+<style>
+  .card :hover {
+    opacity: 85%;
+    background-color: rgb(51, 5, 177);
+  }
+</style>
+
 <body class="container-fluid">
-  <section>
-    <div class="row pt-5 mt-5">
-      <div class="col-sm-0 col-lg-4"></div>
-      <a href="about.html" style="text-decoration: none;color: #c0c0c0;">
-        <div class="col-sm-12 col-lg-3 container-fluid p-10 bottom text-center">
-          <img src="media/self.png" class="img-fluid pt-10" style="max-width: 300px;">
-          <h1 style="padding-top: 20px;"><b>Ian McElwaine</b></h1>
-          <h5>Software engineer ~ Creative Professional</h5>
-        </div>
-      </a>
-      <div class="col-sm-0 col-lg-4"></div>
+  <section class="header">
+    <div class="row">
+      <img src="media/self.png" class="center">
+      <h3>Ian McElwaine</h3>
     </div>
   </section>
-
+  <section class="about" id="about">
+    <div class="row">
+      <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3"></div>
+      <div class="col-sm-12 col-md-10 col-lg-8 col-xl-6">
+        <div class="row">
+          <div class="col-sm-12 col-md-6 px-2">
+            <h3>Who me?</h3>
+            <p>I'm a soon-to-be graduate with a Bachelor of Information Technology and a Diploma in Music
+              Technology. I blend my skills in software engineering with a love for
+              creative arts. With a background in business and the arts, I bring a well-rounded approach to everything I
+              do. Whether it's developing software or creating music, I aim to deliver meaningful and effective
+              solutions.</p>
+            <div class="row mb-4 text-center">
+              <div class="col-sm-12 col-md-6 pb-3">
+                <a href="projects.html" style="text-decoration: none; color: white;">
+                  <div class="card">
+                    <img src="/media/cybercity.jpg" class="card-img-top img-fluid" alt="tech projects">
+                    <div class="card-body">
+                      <h5 class="card-title">Tech portfolio</h5>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div class="col-sm-12 col-md-6 pb-3">
+                <a href="music.html" style="text-decoration: none; color: white;">
+                  <div class="card">
+                    <img src="/media/saxophones.jpg" class="card-img-top img-fluid" alt="music projects">
+                    <div class="card-body">
+                      <h5 class="card-title">Music portfolio</h5>
+                    </div>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-6 pb-3">
+            <img src="media/self7.jpeg" class="img-fluid images">
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-12 pb-3">
+            <h3>Learnings</h3>
+            B. Information Technology. RMIT University<br>
+            Dip. Music Technology. University of New England
+          </div>
+          <div class="col-sm-12 bottom">
+            <h3>Website</h3>
+            <p>This site is hosted on GitHub pages and was hand crafted with VS Code and styled with Bootstrap 5.3</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3"></div>
+    </div>
+    </div>
+  </section>
   <footer>
     <p>
       <a href="https://facebook.com/thereedman"><img src="media/facebook.svg" width="20px"></a>
