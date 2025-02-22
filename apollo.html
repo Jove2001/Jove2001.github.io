@@ -4,10 +4,11 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Ian McElwaine Contact Page">
-    <meta name="keywords" content="Ian McElwaine, Ian, McElwaine, Software, Music, Technology, Developer, Musician">
+    <meta name="description" content="Apollo is a Raspberry Pi based personal project.">
+    <meta name="keywords"
+        content="Ian McElwaine, Ian, McElwaine, Software, Music, Technology, Developer, Musician, Raspberry Pi">
     <meta name="author" content="Ian McElwaine">
-    <title>Contact</title>
+    <title>Apollo</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link href='//fonts.googleapis.com/css?family=Raleway:400,300,600,700' rel='stylesheet' type='text/css'>
@@ -38,12 +39,12 @@
                         <li><a class="dropdown-item" href="drivehub.html">DriveHub</a></li>
                         <li><a class="dropdown-item" href="therick.html">The Rick</a></li>
                         <li><a class="dropdown-item" href="beowulf.html">Beowulf</a></li>
-                        <li><a class="dropdown-item" href="apollo.html">Apollo</a></li>
+                        <li><a class="dropdown-item active" href="apollo.html">Apollo</a></li>
                         <li><a class="dropdown-item" href="dragon.html">Dragon</a></li>
                     </ul>
                 </li>
                 <a class="nav-link" href="music.html">Music</a>
-                <a class="nav-link active" href="contact.html">Contact</a>
+                <a class="nav-link" href="contact.html">Contact</a>
             </div>
         </div>
     </div>
@@ -52,34 +53,48 @@
 <body class="container-fluid">
     <section class="header">
         <div class="row">
-            <img src="media/self.png" class="img-fluid">
-            <h3>Contact</h3>
+            <img src="media/apollo.png" class="center">
+            <h3>Raspberry Pi Projects</h3>
         </div>
     </section>
-    <section id="contact" class="contact container-fluid text-center">
-        <div class="row align-items-center">
-            <div class="col-sm-1 col-md-2 col-lg-5"></div>
-            <div class="mr-auto ml-auto text-center col-sm-10 col-md-8 col-lg-2 bottom img-fluid">
-                <ul class="list-group">
-                    <a class="btn" href="mailto: ian.mcelwaine@gmail.com">
-                        <li class="list-group-item"><img src="media/envelope-at-fill.svg" width="50px"></li>
-                    </a>
-                    <a class="btn" href="tel:+61400016829">
-                        <li class="list-group-item"><img src="media/telephone-outbound-fill.svg" width="50px"></li>
-                    </a>
-                    <a class="btn" href="https://facebook.com/thereedman">
-                        <li class="list-group-item"><img src="media/facebook.svg" width="50px"></li>
-                    </a>
-                    <a class="btn" href="https://github.com/jove2001">
-                        <li class="list-group-item"><img src="media/github.svg" width="50px">
-                        </li>
-                    </a>
-                    <a class="btn" href="https://www.linkedin.com/in/ian-mcelwaine-a0067613a/">
-                        <li class="list-group-item"><img src="media/linkedin.svg" width="50px"></li>
-                    </a>
-                </ul>
+
+    <section id="projects" class="projects container-fluid">
+        <div class="row">
+            <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3"></div>
+            <div class="col-sm-12 col-md-10 col-lg-8 col-xl-6">
+                <div class="row">
+                    <div class="col-sm-12 col-lg-6">
+                        <h4>Summary</h4>
+                        <p>
+                            The Raspberry Pi is a versatile and affordable single-board computer. I've used it for a
+                            variety of projects since the 2B model for a retro gaming to a home server. It's the real 'Swiss army knife' of 
+                            computing.
+                        </p>
+                        <p>
+                            My current Raspberry Pi 5 is a great platform for learning about Linux, networking, and programming. I've built
+                            several projects on it, and the best part is that I can create different
+                            configurations on SD cards. It can go from a retro-gaming console, to a desktop computer, to
+                            a home server, all with a simple swap of the SD card. It's perfect for prototyping new ideas!
+                        </p>
+                        <p>
+                            I love the FLIRC case for the Raspberry Pi 5. It's a solid aluminum case that acts as a heat sink for the CPU. It's
+                            very sturdy and a great way to keep the Pi safe and cool.
+                        </p>
+                        <h4>Favourite configurations</h4>
+                        <ul>
+                            <li>RetroPie with 3000+ games and four SNES style controllers for multiplayer mayhem.</li>
+                            <li>Raspberry Pi OS Desktop for general purpose computing and Python programming.</li>
+                            <li>Ubuntu Server 24.04 LTS with Docker</li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-12 col-lg-6 text-center bottom">
+                        <img src="media/rpi.webp" class="img-fluid vert-stacked-images"><br>
+                        <img src="media/case.avif" class="img-fluid vert-stacked-images"><br>
+                        <img src="media/snes.webp" class="img-fluid vert-stacked-images">
+                    </div>
+                </div>
             </div>
-            <div class="col-sm-1 col-md-2 col-lg-5"></div>
+            <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3"></div>
         </div>
     </section>
     <footer>
@@ -95,6 +110,7 @@
             </script>
         </p>
     </footer>
+
 </body>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
