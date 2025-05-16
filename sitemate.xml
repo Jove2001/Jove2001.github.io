@@ -1,63 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <!-- Verify if this URL is correct and accessible -->
         <loc>https://ianmcelwaine.dev/</loc>
-        <lastmod>2023-10-05</lastmod>
+        <lastmod>2025-05-16</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
         <loc>https://ianmcelwaine.dev/apollo</loc>
-        <lastmod>2023-10-05</lastmod>
+        <lastmod>2025-05-16</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ianmcelwaine.dev/awb</loc>
-        <lastmod>2023-10-05</lastmod>
+        <lastmod>2025-05-16</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://ianmcelwaine.dev/beowulf</loc>
-        <lastmod>2023-10-05</lastmod>
+        <lastmod>2025-05-16</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
-        <url>
+    <url>
         <loc>https://ianmcelwaine.dev/contact</loc>
-        <lastmod>2023-10-05</lastmod>
+        <lastmod>2025-05-16</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
-        <url>
+    <url>
         <loc>https://ianmcelwaine.dev/dragon</loc>
-        <lastmod>2023-10-05</lastmod>
+        <lastmod>2025-05-16</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
-        <url>
+    <url>
         <loc>https://ianmcelwaine.dev/drivehub</loc>
-        <lastmod>2023-10-05</lastmod>
+        <lastmod>2025-05-16</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
-        <url>
+    <url>
         <loc>https://ianmcelwaine.dev/music</loc>
-        <lastmod>2023-10-05</lastmod>
+        <lastmod>2025-05-16</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
-        <url>
+    <url>
         <loc>https://ianmcelwaine.dev/projects</loc>
-        <lastmod>2023-10-05</lastmod>
+        <lastmod>2025-05-16</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
-        <url>
+    <url>
         <loc>https://ianmcelwaine.dev/therick</loc>
-        <lastmod>2023-10-05</lastmod>
+        <lastmod>2025-05-16</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
