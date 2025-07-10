@@ -67,8 +67,8 @@
             <div class="col-sm-0 col-md-1 col-lg-2 col-xl-3"></div>
             <div class="col-sm-12 col-md-10 col-lg-8 col-xl-6">
                 <h1>NDIS Worker CRM Project</h1>
-                <p><strong>Technologies Used:</strong> ASP.NET Core 8, <a target="_blank"
-                        href="https://www.questpdf.com/">QuestPDF</a>, SQLite3, Docker, Raspberry Pi 5</p>
+                <p><strong>Technologies Used:</strong> ASP.NET Core 8, Azure App Services, SQL Server, Azure Storage, Docker, <a target="_blank"
+                        href="https://www.questpdf.com/">QuestPDF</a></p>
                 <section>
                     <div class="row">
                         <div class="col-sm-12 col-lg-6">
@@ -89,7 +89,7 @@
                         <div class="col-sm-12 col-lg-6">
                             <img src="media/bernie.jpg" class="img-fluid">
                             <p>My sister Bernie and friend. Owner/operator of <a target="_blank"
-                                    href="https://www.facebook.com/activitieswithbernie">Activities with Bernie</a></p>
+                                    href="https://www.activitieswithbernie.com.au">Activities with Bernie</a></p>
                         </div>
                     </div>
                 </section>
@@ -101,6 +101,7 @@
                         <li><strong>Financial Insights:</strong> Features to calculate tax debts, summarize key
                             financial year data (e.g., average monthly income, predicted annual income), and provide
                             helpful reports to manage finances with confidence.</li><br>
+                        <li><strong>Rostering:</strong> Rostering for sub-contractors, clock on/clock off, progress notes.</li><br>
                         <li><strong>Adaptability:</strong> Regular updates to tax tables and NDIS payment rates to
                             ensure accuracy and alignment with changing regulations.</li>
                     </ul>
@@ -118,11 +119,13 @@
                             her home network to allow access from her phone and laptop. She used this version in
                             production for
                             three months to gather real-world data and feedback.</li><br>
-                        <li><strong>Final Version:</strong> Developed in ASP.NET Core 8 with an SQLite3 database and
+                        <li><strong>On-prem deployment:</strong> Developed in ASP.NET Core 8 with an SQLite3 database and
                             deployed in a Docker container on a Raspberry Pi 5. Despite tight deadlines due to my study
                             commitments, I
                             completed and deployed the final
-                            version in just two weeks, working over 15-hour days to deliver a functional solution.</li>
+                            version in just two weeks. </li><br>
+                        <li><strong>Cloud lift-and-shift:</strong> Migrated solution to Azure cloud services with role-based permissions. Refactored 
+                            the application to Azure App Services, SQL Server, and Azure Storage.</li>
                     </ul>
                 </section>
                 <section>
@@ -134,16 +137,21 @@
                                     deeply
                                     understand her challenges and tailored the CRM’s features to address them.</li><br>
                                 <li><strong>Performance Under Pressure:</strong> Delivered a robust, production-ready
-                                    application within two weeks while balancing study commitments.</li><br>
-                                <li><strong>Cost and Security Optimization:</strong> Deployed the system on a Raspberry
+                                    MVP within two weeks while balancing study commitments.</li><br>
+                                <li><strong>Cost and Security Optimization:</strong> Initially deployed the system on a Raspberry
                                     Pi to minimize expenses and avoid potential security risks associated with cloud
                                     services.
+                                </li><br>
+                                <li><strong>Cloud migration:</strong> Multi-user support and role-based permissions
+                                    were added to the application to allow Bernie to share the application with her sub-contractors.
+                                    The solution was migrated to Azure App Services, SQL Server, and Azure Storage for better
+                                    scalability and security. Added expense tracking features including uploading receipts.</li>
                                 </li>
                             </ul>
                         </div>
                         <div class="col-sm-12 col-lg-6">
-                            <img src="media/error-web-server.png" class="img-fluid">
-                            I think every Pi needs googly eyes. It's a security feature.
+                            <img src="media/azure-solution.png" class="img-fluid">
+                            Azure Cloud Solution.
                         </div>
                     </div>
                 </section>
@@ -160,8 +168,7 @@
                 <section>
                     <h2>Future Enhancements</h2>
                     <ul>
-                        <li>Add additional features like sub-contractor payments, multi-user support, and more analytics
-                            to expand its capabilities.</li>
+                        <li>Payroll for employees.</li>
                     </ul>
                 </section>
             </div>
